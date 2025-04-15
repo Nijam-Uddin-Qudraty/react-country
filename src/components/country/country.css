@@ -1,0 +1,9 @@
+.country-container {
+    border: 8px solid cyan;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 15px;
+}
+.country-container img{
+    width: 200px;
+}
